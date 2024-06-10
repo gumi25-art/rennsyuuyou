@@ -9,3 +9,4 @@ const shippingFee = 500;
 
  // コンソールへの出力
  console.log(shippingFee);
+
